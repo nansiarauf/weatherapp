@@ -29,7 +29,7 @@ section {
 
 .weather-card {
     color: rgba(15, 78, 7, 0.651);
-    height: 60vh;
+    height: 50vh;
     border: 2px solid grey;
     box-shadow: 0 7px 10px 0 black;
     margin: 5px;
